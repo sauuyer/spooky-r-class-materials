@@ -1,18 +1,6 @@
-Inventory
---
+# Haunted Places Data 
+Downloaded from data world: https://data.world/timothyrenner/haunted-places
 
-* haunted_places.csv contains cleaned data
+The original data comes from the Shadowlands Haunted Places Index, which contains a comprehensive set of haunted places in the United States and internationally. The dataset downloaded from data world has been scraped, cleaned and geocoded by Timothy Renner. This version of the data focuses on haunted US locations, though the Shadowlands Haunted Places Index does include haunted places outside of the US.
 
-* haunted_places.json contains the raw uncleaned data produced directly from the scrape.
-
-Sourcing
---
-Downloaded from: https://data.world/timothyrenner/haunted-places
-
-The Shadowlands Haunted Places Index contains a comprehensive set of haunted places in the United States and internationally.
-This dataset is a scraped, cleaned and geocoded collection of the haunted places in the US.
-
-The raw dataset scraped directly from the site is in haunted_places.json.
-The cleaned and geocoded dataset is in haunted_places.csv.
-
-The code for scraping and geocoding is available on GitHub: https://github.com/timothyrenner/shadowlands-haunted-places.
+The code for scraping and geocoding (also created by Timothy Renner) is available on GitHub: https://github.com/timothyrenner/shadowlands-haunted-places.
