@@ -41,3 +41,15 @@ Text mining with R
 
 bar plots in ggplot2
 * http://www.sthda.com/english/wiki/ggplot2-barplots-quick-start-guide-r-software-and-data-visualization
+
+---
+Slide materials
+* All images are from unsplash
+  * skeleton: https://unsplash.com/photos/8rj4sz9YLCI
+  * bat: https://unsplash.com/photos/IY1sRDxNWN4
+  * cat: https://unsplash.com/photos/yP19KADwhEI
+  * pumpkins: https://unsplash.com/photos/Nu4u9g7Sgdw
+  * haunted house: https://unsplash.com/photos/h3Oj7xroTyI
+  
+* Spooky font is Night of Terror
+  * https://www.dafont.com/search.php?q=night+of+terror
