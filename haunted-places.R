@@ -55,6 +55,7 @@ haunted_walmarts  %>%
   summarise(count = n())
 
 #####Text analysis of the description field
+library(tidytext)
 #what are the top words that occur in the description fields of all hauntings?
 #parse out each word for each sighting
 #because we want to look at each sighting, we should create a unique index for each haunting
