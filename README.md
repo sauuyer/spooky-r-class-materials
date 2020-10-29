@@ -12,7 +12,7 @@ These materials are used during the Halloweeen themed Cushing/Whitney Medical Li
 * How was this data generated, and what are the implications that can come from this?
 * What is not captured in this data?
 
-#### Develope your own data management or analysis questions for this dataset, here are some examples
+#### Develop your own data management or analysis questions for this dataset, here are some examples
 * What other data cleaning opportuities do you see in this dataset?
 * What datasets could this one be merged with to generate more insights?
 * What are the most haunted cities within a particular state?
