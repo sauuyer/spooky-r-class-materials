@@ -63,10 +63,6 @@ df$index <- 1:nrow(df)
 
 #seperate each word in the description field 
 df %>% unnest_tokens(word, description)
-#this will yield an error, so do the next steps
-class(df$description)
-df$description <- as.character(df$description)
-class(df$description)
 #create a new dataset with all of the words
 description_words <- df %>% 
   unnest_tokens(word, description) %>%
